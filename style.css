@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+h1.header{
+text-decoration: turquoise;
+
+}
+.sideA{
+    margin-top: 100px;
+margin-left: 30px;
+
+}
+.sideB{
+    margin-top: 80px;
+margin-left: 30px;
+
+}
+.sideC{
+    margin-top: 80px;
+margin-left: 30px;
+
+}
