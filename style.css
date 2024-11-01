@@ -6,17 +6,17 @@
 .container {
     display: flex;
     justify-content: space-between;
-    padding: 20px;           
-    margin: 10px;            
+    padding: 20px;
+    margin: 10px;
     width: 80%;
-    background-color: #f0f0f0; 
+    background-color: #f0f0f0;
 }
 
 .inner-container {
-    border: 2px solid black; 
-    padding: 20px; 
-    width: 45%; 
-    background-color: #f0f0f0; 
+    border: 2px solid black;
+    padding: 20px;
+    width: 45%;
+    background-color: #f0f0f0;
 }
 
 .header {
@@ -26,8 +26,10 @@
     margin-left: 30px;
 }
 
-.sideA, .sideB, .sideC {
-    margin-top: 20px; 
+.sideA,
+.sideB,
+.sideC {
+    margin-top: 20px;
     margin-left: 30px;
     background-color: #282930;
     border: 1px solid #666666;
@@ -38,25 +40,28 @@
     width: 50px;
 }
 
-.CalculateButton {
-    margin-left: 80px;
+.CalculateButton4,
+.CalculateButton1,
+.CalculateButton2,
+.CalculateButton3 {
+    margin-left: 100px;
     margin-top: 20px;
 }
 
 .container1 {
     display: flex;
     justify-content: space-between;
-    padding: 20px;           
-    margin: 10px;            
+    padding: 20px;
+    margin: 10px;
     width: 80%;
-    background-color: #f0f0f0; 
+    background-color: #f0f0f0;
 }
 
 .inner-container {
-    border: 2px solid black; 
-    padding: 20px; 
-    width: 45%; 
-    background-color: #f0f0f0; 
+    border: 2px solid black;
+    padding: 20px;
+    width: 45%;
+    background-color: #f0f0f0;
 }
 
 .header {
@@ -66,8 +71,10 @@
     margin-left: 30px;
 }
 
-.sideA, .sideB, .sideC {
-    margin-top: 20px; 
+.sideA,
+.sideB,
+.sideC {
+    margin-top: 20px;
     margin-left: 30px;
     background-color: #282930;
     border: 1px solid #666666;
@@ -83,3 +90,7 @@
     margin-top: 20px;
 }
 
+.answerPolynomial{
+    margin-top: 10px;
+
+}
